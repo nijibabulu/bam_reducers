@@ -37,7 +37,7 @@ Add `--user` to install only for the current user.
 
 # Usage
 
-# bam_reducer
+### bam_reducer
 
 The `bam_reducer` script will filter and process alignments under several regimes:
 
