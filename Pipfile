@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+bam-reducers = {editable = true, path = "."}
+
+[packages]
+pysam = "*"
+
+[requires]
+python_version = "3.7"

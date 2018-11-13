@@ -1,0 +1,38 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "515f651be81a725c833ae32b3dd8bdd599becdb1f55a3db582adc710a9b417d8"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pysam": {
+            "hashes": [
+                "sha256:658421124c2f3de1b7445e03ca8413df0077f67ea9980abdaab0d1b5f7a8936f",
+                "sha256:8616649ad4e3538236636d068361bc9716ad45700f65bd46b7508cbc69ca49d7",
+                "sha256:c54403c26490afdfc5db68a0ca1e846b94daa8ee0f571e278efda428257016af",
+                "sha256:cc6b5bcc464bebe5c932cb1ba0ff9d3a6193d9b72d05aba9f16e8d115c06149c",
+                "sha256:d164917496b6569d727505fef0b6623dc3485d6f45ebd8394b124b155a3c0419",
+                "sha256:e1271bfb05a87cff378c88c956c96f6ae040a2d996104a31effa817929578e8f"
+            ],
+            "index": "pypi",
+            "version": "==0.15.1"
+        }
+    },
+    "develop": {
+        "bam-reducers": {
+            "editable": true,
+            "path": "."
+        }
+    }
+}
